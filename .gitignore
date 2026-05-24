@@ -114,3 +114,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# geochange customs
+
+config.yaml
+data/
+app.log
+.idea/
+.vscode/

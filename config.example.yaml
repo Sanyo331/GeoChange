@@ -1,0 +1,17 @@
+api:
+  sentinel_client_id: "client_id_here"
+  sentinel_client_secret: "client_secret_here"
+
+storage:
+  data_dir: "data"
+
+analysis:
+  max_cloud_coverage: 10 # Maximum cloudiness (percent)
+
+  # Photo periods in MM-DD format
+  northern_hemisphere:
+    start_month_day: "06-01"
+    end_month_day: "08-31"
+  southern_hemisphere:
+    start_month_day: "01-01"
+    end_month_day: "03-31"
