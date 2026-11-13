@@ -1,4 +1,4 @@
-# @generated [partially] Gemini: refactor of evalscript (big problems with linter) (NDWI/NDVI), bug fixes and help with understanding
+# @generated [partially] Gemini: refactor of evalscript (big problems with linter)
 # of mosaicing concept and comments
 """Sentinel Hub API client for downloading satellite imagery"""
 

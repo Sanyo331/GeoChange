@@ -1,4 +1,4 @@
-# @generated [partially] Gemini: comments and learned logger
+# @generated [partially] Gemini: comments
 """Logging configuration for the application"""
 import logging
 import sys

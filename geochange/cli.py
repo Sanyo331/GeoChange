@@ -1,5 +1,4 @@
-# @generated [partially] Gemini: correct idea for arg parse,  bug fix for ThreadPoolExecution
-# implementation of CSV and comments
+# @generated [partially] Gemini:  bug fix for ThreadPoolExecution and comments
 """Command-line interface and main execution logic for GeoChange"""
 import argparse
 import csv

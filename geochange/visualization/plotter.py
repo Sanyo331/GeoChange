@@ -1,4 +1,4 @@
-# @generated [partially] Gemini: some parameters (DPI, bbox) and comments
+# @generated [partially] Gemini: comments
 """Plotting utilities for generating trend graphs"""
 from pathlib import Path
 import matplotlib.pyplot as plt
